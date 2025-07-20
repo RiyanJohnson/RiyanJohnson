@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Riyan Johnson</h1>
-<h3 align="center">Currently pursing my studies at VIT, Vellore</h3>
+<h3 align="center">Pursing my studies at VIT, Vellore</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riyanjohnson" alt="riyanjohnson" /></a> </p>
 
 - 🌱 I’m currently learning **Springboot - Java.**
+
+- 👯 I’m looking to collaborate on **Creating RESTAPIs**
 
 - 💬 Ask me about **Python, Django, FastApi, C/C++, Java**
 
