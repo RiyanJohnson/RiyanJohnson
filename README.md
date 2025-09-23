@@ -10,7 +10,3 @@
 - 📫 How to reach me **riyan.johnson16@gmail.com**
 
 - ⚡ Fun fact **I like to code.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
