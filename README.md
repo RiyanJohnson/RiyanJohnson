@@ -7,6 +7,4 @@
 
 - 💬 Ask me about **Python (Django,FastAPI), Java, C/C++, RESTAPIs**
 
-- 📫 How to reach me **riyan.johnson16@gmail.com**
-
 - ⚡ Fun fact **I like to code.**
